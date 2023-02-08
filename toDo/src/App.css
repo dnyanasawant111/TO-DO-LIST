@@ -1,0 +1,17 @@
+.main {
+  text-align: center;
+  background-color: tomato;
+border-radius: 100px;
+
+  
+  
+}
+
+.onhover:hover{
+  background: red;
+}
+.todo{
+  color:yellow
+}
+
+
